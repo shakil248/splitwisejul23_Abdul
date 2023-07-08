@@ -1,6 +1,5 @@
 package com.scaler.splitwisejul23.dtos;
 
-import jakarta.persistence.GeneratedValue;
 import lombok.Getter;
 import lombok.Setter;
 
